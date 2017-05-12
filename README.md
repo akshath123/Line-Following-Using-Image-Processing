@@ -30,4 +30,8 @@ from the rest as with minimual computation the task is achieved.
   1. If we go for multi core-programming then the system can go even faster.
   2. If the algorithm is integrated with PID line controller algorithm then there will be less deviations.
 
+### Software Requirements 
+
+  1. OpenCV 
+  2. Python 2.7 
  
