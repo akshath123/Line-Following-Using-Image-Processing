@@ -35,3 +35,4 @@ from the rest as with minimual computation the task is achieved.
   1. OpenCV 
   2. Python 2.7 
  
+## NOTE: The code is developed for laptops but can be extended for bots. The only thing you would have to do is add motor control such as PWM and Direction. 
