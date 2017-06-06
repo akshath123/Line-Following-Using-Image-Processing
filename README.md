@@ -5,7 +5,7 @@ line following further it becomes even slower when implemented in embedded board
 clock speed of such microprocessors is around 1 Ghz to 1.2 Ghz as of 12<sup>th</sup> May 2017. But this algorithm is different 
 from the rest as with minimual computation the task is achieved. 
 
-### Demo of the Video can be found [here](https://youtu.be/IWe_ecrxInI) and also [here](https://youtu.be/EIg_iHtmtBk). Implementation of the project on BeagleBone Developement demo video is given here 
+### Demo of the Video can be found [here](https://youtu.be/IWe_ecrxInI) and also [here](https://youtu.be/EIg_iHtmtBk). Implementation of the project on BeagleBone Developement demo video is given [here](https://www.youtube.com/watch?v=lt8MrgPyrS8)
 
 ### Asumptions Made
 
